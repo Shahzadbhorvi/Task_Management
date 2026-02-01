@@ -1,0 +1,31 @@
+# Backend (ASP.NET Core)
+backend/bin/
+backend/obj/
+backend/.vs/
+backend/*.user
+backend/*.suo
+backend/.vscode/
+
+# If using BackendTask folder instead of backend:
+BackendTask/bin/
+BackendTask/obj/
+BackendTask/.vs/
+BackendTask/*.user
+BackendTask/*.suo
+BackendTask/.vscode/
+BackendTask/BackendTask/bin/
+BackendTask/BackendTask/obj/
+BackendTask/BackendTask/.vs/
+
+# Frontend (React/Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.vscode/
+
+# General
+*.log
+.DS_Store
+*.vsidx
+*.v2
